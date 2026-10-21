@@ -1,0 +1,6 @@
+{
+  "name": "HostelSphere Pro - Enterprise Hostel & Residence PMS",
+  "description": "Premium full-stack Hostel and Residence Management SaaS with multi-hostel support, visual room & bed allocation, resident lifecycle, mess, billing, and staff operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
